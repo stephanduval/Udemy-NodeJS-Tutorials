@@ -1,10 +1,10 @@
-const script2 = require("./script2.js");
+// const script2 = require("./script2.js");
+import { largeNumber } from "./script2.js";
 
-const a = script2.largeNumber;
+const a = largeNumber;
 const b = 5;
-
-console.log(__dirname);
 
 setTimeout(() => {
   console.log(a + b);
 }, 3000);
+1;
