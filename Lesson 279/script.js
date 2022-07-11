@@ -2,7 +2,7 @@
 import { largeNumber } from "./script2.js";
 
 const a = largeNumber;
-const b = 5;
+const b = 11;
 
 setTimeout(() => {
   console.log(a + b);

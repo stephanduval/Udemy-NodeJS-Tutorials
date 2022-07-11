@@ -4,10 +4,9 @@
   "description": "Y",
   "main": "script.js",
   "scripts": {
-    "start": "nodemon",
-    "test": "echo \"Error: no test specified\" && exit 1",
-  },
+    "start": "nodemon"  },
   "author": "",
+  "type":"module",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.19"
