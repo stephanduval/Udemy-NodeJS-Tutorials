@@ -1,0 +1,23 @@
+{
+  "name": "udemy_complete_web_developer_tutorial_2022_zero_to_mastery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephanduval/Udemy-NodeJS-Tutorials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephanduval/Udemy-NodeJS-Tutorials/issues"
+  },
+  "homepage": "https://github.com/stephanduval/Udemy-NodeJS-Tutorials#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
